@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-# Mind Musings Blog
+# Reflexion Blog
 
 A personal blogging website built with **React**, **Vite**, and **Tailwind CSS** for sharing thoughts, observations, and plans in a clean and readable format.
 
@@ -25,7 +25,16 @@ A personal blogging website built with **React**, **Vite**, and **Tailwind CSS**
 - **React Router DOM** - Routing library for single-page application navigation.
 
 ---
+# This is how this project looks like after deployment 
 
+Here are some screenshots demonstrating the key functionalities of **Reflection**:
+
+| **Interface**         | **Preview** |
+|-----------------------|-------------|
+| **Home Page**         | <img src="https://github.com/its-maneeshk/.assets/blob/da789031f572c4e59bac23bebc267ab6a9d8bbaa/Reflexion_Demo-images/Reflexion_Home.png" width="800px"> |
+| **Blogs Page**          | <img src="https://github.com/its-maneeshk/.assets/blob/da789031f572c4e59bac23bebc267ab6a9d8bbaa/Reflexion_Demo-images/Reflexion_Blog.png" width="800px"> |
+
+---
 ## Installation
 
 1. Clone the repository:
@@ -79,17 +88,6 @@ export const blogs = [
 
 ---
 
-## Deployment
-
-You can deploy this project on platforms like **Netlify**, **Vercel**, or **GitHub Pages**. Example for Vercel:
-
-```bash
-npm install -g vercel
-vercel
-```
-
----
-
 ## License
 
 This project is licensed under the **MIT License**. See `LICENSE` file for details.
@@ -98,4 +96,4 @@ This project is licensed under the **MIT License**. See `LICENSE` file for detai
 
 ## Author
 
-Your Name – Personal blog project for sharing thoughts, observations, and plans.
+Manish Kumar Patel – Personal blog project for sharing thoughts, observations, and plans.
