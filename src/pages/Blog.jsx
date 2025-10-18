@@ -10,7 +10,7 @@ const Blog = () => {
     return <p className="text-center mt-10 text-gray-500 text-lg">Blog not found.</p>;
 
   return (
-    <div className="container mx-auto px-5 py-10">
+    <div className="container mx-auto px-16 py-10">
       {/* Main Image */}
       {blog.image && (
         <img
